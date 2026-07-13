@@ -1,0 +1,1 @@
+I am building a website for devconf 2026. it is a big conference for developers and coders. i already made a banner, speakers list, and pricing cards. i need one more section before the footer but i don't know what to add. what are some good ideas that developers would like for this website?
